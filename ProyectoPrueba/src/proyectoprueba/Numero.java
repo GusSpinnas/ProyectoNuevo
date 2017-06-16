@@ -19,4 +19,8 @@ public class Numero {
         valor=0;
     }
     
+    public Numero(int numero)
+    {
+        valor = numero;
+    }
 }
