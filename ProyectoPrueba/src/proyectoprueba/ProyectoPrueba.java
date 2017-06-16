@@ -19,8 +19,8 @@ public class ProyectoPrueba {
     public static void main(String[] args) {
         
         Scanner Input = new Scanner(System.in);
-        String Texto = Input.nextLine();
-        String Texto2 = Input.nextLine();
+        int n0 = Input.nextInt();
+        int n1 = Input.nextInt();
     }
     
 }
