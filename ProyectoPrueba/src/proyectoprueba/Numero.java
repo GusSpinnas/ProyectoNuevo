@@ -26,5 +26,9 @@ public class Numero {
     public void Numero(int valor)
     {
         this.valor = valor;
+
+    public Numero(int numero)
+    {
+        valor = numero;
     }
 }
