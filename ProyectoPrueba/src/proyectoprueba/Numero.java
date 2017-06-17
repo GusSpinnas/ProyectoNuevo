@@ -19,6 +19,14 @@ public class Numero {
         valor=0;
     }
     
+    public int Numero(){
+        return valor;
+    }
+    
+    public void Numero(int valor)
+    {
+        this.valor = valor;
+
     public Numero(int numero)
     {
         valor = numero;
